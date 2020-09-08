@@ -1,6 +1,6 @@
 ### Hi, I'm Sam 👋
 
-🙋‍♂️ - I'm a Computer Student at the University of Birmingham
+🙋‍♂️ - I'm a Computer Science Student at the University of Birmingham
 
 🖥️ - My main languages are: Java/PHP/TypeScript
 
