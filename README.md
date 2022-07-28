@@ -3,9 +3,7 @@ I'm a Full-Stack Software Engineer, specialising in PHP/Laravel as well as Node/
 
 Skills: PHP / Laravel / Node / TypeScript / React
 
-- 🔭 I’m currently working on a solution for hosting game servers with friends.  
-- 🌱 I’m currently learning NestJS & AWS.  
-
+- 🔭 I’m currently working on a solution for hosting game servers with friends.
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sgunner2014)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sam-g-4718a5109/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/rennugmas)  
 
