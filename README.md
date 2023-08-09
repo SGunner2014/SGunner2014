@@ -5,5 +5,3 @@ I'm a Full-Stack Software Engineer, specialising in PHP/Laravel as well as Node/
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sgunner2014)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=sgunner2014)  
-
